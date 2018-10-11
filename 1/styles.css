@@ -12,7 +12,7 @@ nav {
   font-style: bold;
 }
 .nav-login, .nav-general {
-  display: inline-block;
+  display: flex;
   justify-content: right;
 }
 h1 {
